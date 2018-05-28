@@ -1,0 +1,6 @@
+C:\Users\Panch\source\repos\NLayerShop\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Panch\source\repos\NLayerShop\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Panch\source\repos\NLayerShop\DAL\obj\Debug\netstandard2.0\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Panch\source\repos\NLayerShop\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Panch\source\repos\NLayerShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Panch\source\repos\NLayerShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs

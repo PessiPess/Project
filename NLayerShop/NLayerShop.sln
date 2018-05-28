@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLayerShop.WEB", "NLayerSho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{B1366E7B-5853-4AC8-B5B3-1323CBD39DE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{45F39D8B-5066-4087-A544-B2113A76A475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "BLL\BLL.csproj", "{45F39D8B-5066-4087-A544-B2113A76A475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL.UnitTests", "BLL.UnitTests\BLL.UnitTests.csproj", "{8EC421EB-33BA-4C76-A649-5F1C77D078CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{45F39D8B-5066-4087-A544-B2113A76A475}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45F39D8B-5066-4087-A544-B2113A76A475}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45F39D8B-5066-4087-A544-B2113A76A475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC421EB-33BA-4C76-A649-5F1C77D078CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC421EB-33BA-4C76-A649-5F1C77D078CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC421EB-33BA-4C76-A649-5F1C77D078CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC421EB-33BA-4C76-A649-5F1C77D078CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

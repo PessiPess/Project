@@ -241,11 +241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Panch\\source\\repos\\NLayerShop\\BLL\\BLL.csproj",
+      "projectUniqueName": "E:\\Git\\Project\\NLayerShop\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\Panch\\source\\repos\\NLayerShop\\BLL\\BLL.csproj",
+      "projectPath": "E:\\Git\\Project\\NLayerShop\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Panch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Panch\\source\\repos\\NLayerShop\\BLL\\obj\\",
+      "outputPath": "E:\\Git\\Project\\NLayerShop\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -266,8 +266,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Panch\\source\\repos\\NLayerShop\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Panch\\source\\repos\\NLayerShop\\DAL\\DAL.csproj"
+            "E:\\Git\\Project\\NLayerShop\\DAL\\DAL.csproj": {
+              "projectPath": "E:\\Git\\Project\\NLayerShop\\DAL\\DAL.csproj"
             }
           }
         }
